@@ -1,0 +1,6 @@
+{
+  "name": "EcoFeast - Food Waste Management System",
+  "description": "Comprehensive Food Rescue and Waste Mitigation platform connecting surplus food donors with shelters and non-profits, featuring real-time donation tracking, logistics radar, and environmental impact analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
